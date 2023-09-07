@@ -14,3 +14,4 @@
     [Connect and Protect: Networks and Network Security](https://coursera.org/verify/UHHRGVKVXL2Y)
     <img align="left" alt="Networks and Network Security" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/Networking/Networking.png" />
 </div>
+</a><a href="https://coursera.org/verify/SC22MY56YNAM"><img align="center" width="40px" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/LinuxSQL/Linux%20SQL.png"/>
