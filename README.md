@@ -2,9 +2,11 @@
 
 
 <h3 align="left"> Finished Courses:</h3>
-<div>
-    [Foundations of Cybersecurity](https://coursera.org/verify/EA6LWQQ9BU8W)
-    <img align="left" alt="Foundations" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/Course%20Completition%20Certificate/Fundatrions/Fundations.png" />
-    <img align="left" alt="Foundations" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/Course%20Completition%20Certificate/Fundations                /Fundations.png" />    
-</div>
 
+</a><a href="https://coursera.org/verify/EA6LWQQ9BU8W"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/Fundations/Fundations.png"/>
+
+</a><a href="https://coursera.org/verify/NCBM34AKPSX4"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/ManageSecurityIncidents/Manage%20Security%20Incidents.png"/>
+    
+</a><a href="https://coursera.org/verify/UHHRGVKVXL2Y"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/Networking/Networking.png"/>    
+
+</a><a href="https://coursera.org/verify/SC22MY56YNAM"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/LinuxSQL/Linux%20SQL.png"/>
