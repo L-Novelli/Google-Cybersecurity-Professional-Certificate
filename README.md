@@ -10,3 +10,5 @@
 </a><a href="https://coursera.org/verify/UHHRGVKVXL2Y"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/Networking/Networking.png"/>    
 
 </a><a href="https://coursera.org/verify/SC22MY56YNAM"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/LinuxSQL/Linux%20SQL.png"/>
+
+</a><a href="https://coursera.org/verify/9MUT6W362C3P"><img align="center" width="550px" height="425" src="https://github.com/L-Novelli/Google-Cybersecurity-Professional-Certificate/blob/master/CourseCompletitionCertificate/AssetsThreatsVulnerabilities/AssetsThreatsVulnerabilities.jpg"/>
